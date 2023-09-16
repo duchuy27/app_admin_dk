@@ -1,0 +1,16 @@
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\UHFPrimeReader.dll
+D:\T4 Tek\APP_Parking\Demo\App_admin_demo\WindowsFormsApp1\bin\Debug\hidapi.dll
